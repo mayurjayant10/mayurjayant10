@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi 👋, I'm Izumi
 
-<!--
-**mayurjayant10/mayurjayant10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Beginner Full-Stack Developer  
+💻 Learning Frontend & Backend step by step  
+  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- I’m currently learning **Web Development**
+- Exploring **Frontend + Backend**
+- I like building small projects and improving daily
+- Interested in Open Source & real-world apps
+
+---
+
+## 🛠️ Tech Stack (Learning)
+### Frontend
+- HTML
+- CSS
+- JavaScript
+- React
+### Backend
+- Node.js (Basics)
+- Express.js (Learning)
+
+### Database
+- MongoDB (Beginner)
+
+### Tools
+- Git & GitHub
+- VS Code
+
+
+---
+
+⭐ *Still learning. Still building. Still improving.*
