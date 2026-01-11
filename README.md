@@ -20,6 +20,7 @@
 - CSS
 - JavaScript
 - React
+- NEXTJS
 ### Backend
 - Node.js (Basics)
 - Express.js (Learning)
